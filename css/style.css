@@ -764,6 +764,7 @@ html {
   transition: all 0.3s ease;
   padding: 5px 10px;
   border-radius: 4px;
+  cursor: pointer;
 }
 .footer .scop-bottom .social i:hover {
   background: rgba(95, 115, 215, 0.2);
