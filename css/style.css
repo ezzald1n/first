@@ -617,6 +617,7 @@ html {
   margin-left: 20px;
   background: white;
   color: #0D0D2B;
+  cursor: pointer;
 }
 .card .content .input .btn:hover {
   background: transparent;
